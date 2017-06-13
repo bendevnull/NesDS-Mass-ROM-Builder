@@ -5,7 +5,7 @@ ROMs into Apache Thunder's NesDS-Singles emulator
 for the Nintendo DS.
 
 ## Prequisites
-* Python 2.7 (3.1 might work but, Python 3 is overrated :P)
+* Python 2.7 (Python 3 might work but, Python 3 is overrated :P)
 * DEVKITARM (To build the emulator after the ROM is ready)
 * CMake
 * A C++ compiler of some sort (I use MinGW on Windows)
@@ -13,12 +13,12 @@ for the Nintendo DS.
 
 ## How to Use
 1. Turn on your computer
-2. Log into Windows or Linux
+2. Log into your computer
 3. ~~Download~~ Legally obtain some NES ROMs
 4. Put the ~~downloaded~~ ripped ROMs in the same folder as the script
 5. I cannot stress this enough, **MAKE SURE CMAKE AND DEVKITARM ARE WORKING BEFORE RUNNING THE SCRIPT! I DON'T WANT ANY ISSUES COMPLAINING ABOUT THE FACT SOME IDIOT CANNOT GET ONE OF THE TWO THINGS RUNNING!**
 6. Run the script
-7. Fill in any information about the ROM that the script asks for (Two pieces of info per ROM)
+7. Fill in any information about the ROM that the script asks for
 8. Enjoy your new NES games for your DS
 9. (Optional) Use Gericom's DSPatch (Or my Python version when it's finished :wink:) to inject your new ROMs into a DS Download Station ROM and then use a flashcart or TWLoader to play the games on your older DS systems.
 
