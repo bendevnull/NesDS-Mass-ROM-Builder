@@ -14,7 +14,7 @@ for the Nintendo DS.
 ## How to Use
 1. Turn on your computer
 2. Log into Windows or Linux
-3. ~~Download~~ Rip some NES ROMs
+3. ~~Download~~ Legally obtain some NES ROMs
 4. Put the ~~downloaded~~ ripped ROMs in the same folder as the script
 5. I cannot stress this enough, **MAKE SURE CMAKE AND DEVKITARM ARE WORKING BEFORE RUNNING THE SCRIPT! I DON'T WANT ANY ISSUES COMPLAINING ABOUT THE FACT SOME IDIOT CANNOT GET ONE OF THE TWO THINGS RUNNING!**
 6. Run the script
