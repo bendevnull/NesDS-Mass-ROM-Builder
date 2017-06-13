@@ -20,7 +20,7 @@ for the Nintendo DS.
 6. Run the script
 7. Fill in any information about the ROM that the script asks for (Two pieces of info per ROM)
 8. Enjoy your new NES games for your DS
-9. (Optional) Use Gericom's DSPatch (Or my Python version when it's finished ;)) to inject your new ROMs into a DS Download Station ROM and then use a flashcart or TWLoader to play the games on your older DS systems.
+9. (Optional) Use Gericom's DSPatch (Or my Python version when it's finished :wink:) to inject your new ROMs into a DS Download Station ROM and then use a flashcart or TWLoader to play the games on your older DS systems.
 
 ## FAQ
 * Q: What is DEVKITARM?
@@ -30,7 +30,7 @@ for the Nintendo DS.
 * Q: Do you know any other programming languages?
   * A: I've dabbled in a few other languages myself. (GML, Java, JavaScript, HTML, CSS, C, C#, etc.)
 * Q: Now a question about this script, what other OSes does this script run on?
-  * A: It could run on a toaster as long as said toaster has C++ compiling capabilities and a Python interpreter. Just don't forget to plug in your keyboard ;)
+  * A: It could run on a toaster as long as said toaster has C++ compiling capabilities and a Python interpreter. Just don't forget to plug in your keyboard. :wink:
 * Q: Is the name going to be final?
   * A: Perhaps unless someone comes up with something more creative.
 * Q: Will you add more to this FAQ as people ask dumb questions?
@@ -38,5 +38,5 @@ for the Nintendo DS.
   
 ## Credits
 * bennyman123abc: This script and GitHub page you're reading
-* Apache Thunder: NesDS Single's emulator, inspiration, and just for being a great part of the community. Thank you! :)
-* Gericom: Previously mentioned DSPatch program. Without it, I wouldn't have written this script in half an hour. :)
+* Apache Thunder: NesDS Single's emulator, inspiration, and just for being a great part of the community. Thank you! :simple_smile:
+* Gericom: Previously mentioned DSPatch program. Without it, I wouldn't have written this script in half an hour.
