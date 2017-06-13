@@ -1,6 +1,4 @@
 # NesDS Mass ROM Builder
-
-## About
 NesDS Mass ROM Builder is a Python script written
 to assist those who are trying to inject multiple
 ROMs into Apache Thunder's NesDS-Singles emulator
