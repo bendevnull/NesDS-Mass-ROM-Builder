@@ -7,7 +7,7 @@ endif
 
 include $(DEVKITARM)/ds_rules
 
-export GAME_TITLE		:=	TestGame
+export GAME_TITLE		:=	NesDS Singles
 export GAME_SUBTITLE1	:=	NesDS Singles
 export GAME_SUBTITLE2	:=	By Gericom & Apache Thunder
 export GAME_ICON	:=	$(CURDIR)/icon.bmp
