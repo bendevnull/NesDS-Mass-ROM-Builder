@@ -20,7 +20,7 @@ for the Nintendo DS.
 6. Run the script
 7. Fill in any information about the ROM that the script asks for
 8. Enjoy your new NES games for your DS
-9. (Optional) Use Gericom's DSPatch (Or my Python version when it's finished :wink:) to inject your new ROMs into a DS Download Station ROM and then use a flashcart or TWLoader to play the games on your older DS systems.
+9. (Optional) Use Gericom's DSPatch to inject your new ROMs into a DS Download Station ROM and then use a flashcart or TWLoader to play the games on your older DS systems.
 
 ## FAQ
 * Q: What is DEVKITARM?
