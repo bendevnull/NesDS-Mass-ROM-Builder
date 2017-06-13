@@ -38,5 +38,5 @@ for the Nintendo DS.
   
 ## Credits
 * bennyman123abc: This script and GitHub page you're reading
-* Apache Thunder: NesDS Single's emulator, inspiration, and just for being a great part of the community. Thank you! :simple_smile:
+* Apache Thunder: NesDS Single's emulator, inspiration, and just for being a great part of the community. Thank you! :smile:
 * Gericom: Previously mentioned DSPatch program. Without it, I wouldn't have written this script in half an hour.
